@@ -1,0 +1,13 @@
+print("Bienvenido al sistema de calificaciones")
+print("Ingrese el nombre de los estudiantes y sus notas")
+
+estudiante1 = input("Ingrese su nombre: ")
+notas = int(input("Ingrese sus notas: "))
+estudiante2 = input("Ingrese su nombre: ")
+notas2 = int(input("Ingrese sus notas: ")) 
+estudiante3 = input("Ingrese su nombre: ")
+notas3 = int(input("Ingrese sus notas: "))
+estudiante4 = input("Ingrese su nombre: ")
+notas4 = int(input("Ingrese sus notas: "))
+estudiante5 = input("Ingrese su nombre: ")
+notas5 = int(input("Ingrese sus notas: "))
