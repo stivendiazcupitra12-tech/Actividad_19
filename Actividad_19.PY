@@ -1,3 +1,5 @@
+print("Hello")
+#Este programa contiene un menú principal con varias opciones de usar programas anteriormente creados en clase que derivan de submenús
 seleccionmenu = 0
 while seleccionmenu != 3: 
     print("Menu Principal")
